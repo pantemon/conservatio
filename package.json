@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "netlify-lambda": "^2.0.15",
     "node-schedule": "^2.1.1",
     "telegraf": "^3.38.0",
     "telegraf-session-local": "^2.1.0"
