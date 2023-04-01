@@ -20,5 +20,5 @@ npm i
 ```
 
 ```
-node ./functions/main.js
+BOT_TOKEN=<YOUR_BOT_TOKEN> node ./functions/main.js
 ```
