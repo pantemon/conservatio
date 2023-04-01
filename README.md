@@ -1,5 +1,12 @@
 # conservatio
 
+## Requirements
+```
+git
+node >14 (and corresponding version of npm)
+```
+
+## Usage
 ```
 git clone https://github.com/pantemon/conservatio
 ```
